@@ -1,4 +1,4 @@
-FROM nickg/node-base
+FROM textclean/node-base
 MAINTAINER nickg
 WORKDIR /tmp
 RUN /bin/true \
